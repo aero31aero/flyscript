@@ -1,0 +1,26 @@
+{
+  "name": "flyscript",
+  "version": "0.0.1",
+  "description": "Integrate JS into your shell workflows",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aero31aero/flyscript.git"
+  },
+  "keywords": [
+    "shell",
+    "repl",
+    "bash",
+    "pipe"
+  ],
+  "author": "Rohitt Vashishtha <aero31aero@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aero31aero/flyscript/issues"
+  },
+  "homepage": "https://github.com/aero31aero/flyscript#readme"
+}
