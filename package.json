@@ -1,6 +1,6 @@
 {
   "name": "flyscript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Integrate JS into your shell workflows",
   "main": "src/index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/aero31aero/flyscript/issues"
   },
-  "homepage": "https://github.com/aero31aero/flyscript#readme"
+  "homepage": "https://github.com/aero31aero/flyscript#readme",
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  }
 }
